@@ -23,8 +23,8 @@ Projeto completo no repositório abaixo: \
 Completed project in the repo below: \
 https://github.com/EduardoBllc/CaseOlimpiadas
 
-Excel
-Gerador de pedidos para processos de logística de produção (em andamento)
+Excel\
+Gerador de pedidos para processos de logística de produção (em andamento)\
 Order generator for production logistics processes (in progress)
 ![image](https://github.com/EduardoBllc/EduardoBllc/assets/77795330/94c2bdf4-f23a-46e9-9f74-31506f0880fe)
 ![image](https://github.com/EduardoBllc/EduardoBllc/assets/77795330/21a20a2b-e7d1-47e0-ab89-3f4033d25504)
