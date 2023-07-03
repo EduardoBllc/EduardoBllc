@@ -27,7 +27,8 @@ Excel\
 Gerador de pedidos para processos de logística de produção (em andamento)\
 Order generator for production logistics processes (in progress)
 
-![image](https://github.com/EduardoBllc/EduardoBllc/assets/77795330/8f6d47ab-ae22-4b07-937a-a3e488103d95)
+![image](https://github.com/EduardoBllc/EduardoBllc/assets/77795330/dbacffbe-bfc6-4cfb-b5b8-bd99e50b092d)
+
 Projeto completo no repositório abaixo: \
 Completed project in the repository below: \
 https://github.com/EduardoBllc/Projeto-BM
