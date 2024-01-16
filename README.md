@@ -22,17 +22,6 @@ Completed project in the repository below: \
 https://github.com/EduardoBllc/CaseOlimpiadas
 <br/>
 <br/>
-
-Excel\
-Gerador de pedidos para processos de logística de produção (em andamento)\
-Order generator for production logistics processes (in progress)
-
-![image](https://github.com/EduardoBllc/EduardoBllc/assets/77795330/dbacffbe-bfc6-4cfb-b5b8-bd99e50b092d)
-
-Projeto completo no repositório abaixo: \
-Completed project in the repository below: \
-https://github.com/EduardoBllc/Projeto-BM
-<!---
 EduardoBllc/EduardoBllc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
