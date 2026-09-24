@@ -37,24 +37,44 @@
   tecnologia e da inovação através de soluções simples e que dialogam com o usuário!
 </p>
   
-## Um pouco dos meus projetos:
+## Um pouco dos meus projetos
 
-### Sistemas para gerenciamento de estoque e vendas para revendedora de semijoias:
+### Sistema de cadastro de despesas
 
-<p>
-  Estou atualmente trabalhando em um projeto para revendedoras de semijoias, de um sistema web em Angular com um app em flutter, alimentados por uma API em Python com Django Rest Frameowrk para gerenciamento de estoque, vendas e clientes.
-</p>
+Sistema web para cadastro e organização de despesas pessoais, desenvolvido com Vue 3 e TypeScript no frontend, integrado a uma API em Python com FastAPI e banco de dados PostgreSQL.
+
+A aplicação permite gerenciar despesas, categorias e seus respectivos itens, oferecendo uma interface simples para acompanhar e organizar informações financeiras. O projeto também conta com testes unitários e testes end-to-end, além de uma estrutura separada entre frontend, API, modelos e camada de acesso ao banco de dados.
+
+- **Frontend:** Vue 3, TypeScript, Tailwind CSS e Vite
+- **Backend:** Python, FastAPI e SQLAlchemy
+- **Banco de dados:** PostgreSQL
+- **Testes:** Jest, Vue Test Utils e Cypress
+
+Repositórios do projeto:
+
+- [Frontend](https://github.com/EduardoBllc/front-cadastro-despesas)
+- [API](https://github.com/EduardoBllc/api-cadastro-despesas)
+
 <br/>
-Repositório do projeto: https://github.com/EduardoBllc/AppJMS
 
-Atualmente o projeto ainda está em fase de desenvolvimento, mas algumas de suas telas da web já estão perto
-de estarem prontas:
-<br/><br/>
-![Captura de tela 2024-05-28 225341](https://github.com/EduardoBllc/EduardoBllc/assets/77795330/5bdec1dc-c272-4d53-842a-682121453f78)
-<br/><br/>
-![image](https://github.com/EduardoBllc/EduardoBllc/assets/77795330/c3c19b5f-43cf-4b4f-b63e-c74b6b666511)
-<br/><br/>
-![image](https://github.com/EduardoBllc/EduardoBllc/assets/77795330/e4cf2c9b-dbe6-4a48-9716-fae2dae42ab4)
-<br/><br/>
-![image](https://github.com/EduardoBllc/EduardoBllc/assets/77795330/42151dd3-9d38-4bba-b5e3-b832c803f109)
+### Monitor de versões
 
+Ferramenta de linha de comando desenvolvida em Python para monitorar, auditar e atualizar versões de software em repositórios Git.
+
+O projeto compara o estado esperado de uma versão com o que está realmente aplicado no Git, identifica commits pendentes, auxilia na criação e atualização de branches de release e permite continuar ou cancelar operações quando há conflitos. Também possui uma interface interativa no terminal e suporte à manutenção de worktrees para acelerar operações recorrentes.
+
+Entre os principais recursos estão:
+
+- Verificação e auditoria de versões;
+- Criação e atualização de branches de release;
+- Identificação de commits faltantes;
+- Continuação e cancelamento de atualizações com conflitos;
+- Reconstrução do estado de uma versão;
+- Interface interativa no terminal;
+- Persistência de dados com PostgreSQL;
+- Gerenciamento de migrações com Alembic;
+- Testes automatizados e testes de integração com containers PostgreSQL.
+
+- **Tecnologias:** Python, Textual, SQLAlchemy, Alembic, PostgreSQL e Git
+
+Repositório do projeto: [monitor-versoes](https://github.com/EduardoBllc/monitor-versoes)
