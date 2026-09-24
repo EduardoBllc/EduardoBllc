@@ -2,11 +2,6 @@
   Ola! Meu nome é Eduardo Ballico, sou Desenvolvedor na VendaBem Sistemas, atualmente cursando Análise e Desenvolvimento de Software.
 </h2>
 
-<div>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=EduardoBllc&theme=transparent&show_icons=true&include_all_commits=true&locale=pt-br">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoBllc&theme=transparent&layout=normal&locale=pt-br&langs_count=4">
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt=Typecsript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
